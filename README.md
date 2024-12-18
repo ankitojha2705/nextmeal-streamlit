@@ -2,6 +2,8 @@
 
 This is a **Streamlit web application** that provides restaurant recommendations using the **SVD (Singular Value Decomposition)** collaborative filtering algorithm. The app predicts ratings for unrated restaurants and recommends the top restaurants based on user input.
 
+Youtube Link - https://www.youtube.com/watch?v=CTSQ4x0QPfY
+
 ---
 
 ## 🚀 Features
