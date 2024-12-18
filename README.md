@@ -88,3 +88,4 @@ The application uses a dataset (`combined_df.json`) containing the following col
 - **Prediction**: The app predicts ratings for unrated restaurants for a specific user and recommends the top-N restaurants based on predicted scores.
 
 ---
+
